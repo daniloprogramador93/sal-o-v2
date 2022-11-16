@@ -27,23 +27,26 @@ section{
     background-attachment: fixed;
     background-position: left top;
 }
+iframe{
+    position: absolute;
+    top: 58%;
+    display: block;
+    margin: left;
+}
 #linkredes{
     position: absolute;
-    top: 35%;
+    top: 20%;
     left: 80%;
-    
-    
+       
 }
 img{
     height: 10vh;
 }
-a{
-   
-}
+
 ul{
     text-align: left;
     margin-left: 30px;
-    font-size: 2em;
+    font-size: 2vw;
 }
 #s2{
     height: 95vh;
