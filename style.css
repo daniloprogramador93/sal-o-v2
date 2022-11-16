@@ -15,13 +15,11 @@ html, body{
     height: 100vh;
     background-color: rgb(82, 90, 97);
     background:black url('imagens/corte.jpg') no-repeat left top;
-    background-size: cover;
-    
-   
+    background-size: cover;  
 }
 h1{
-    padding-left: 10px;
-    display: inline-block;
+    text-align: center;
+    display: block;
     font-family: 'Caveat', cursive;
     font-size: 12vw;
 }
@@ -42,9 +40,9 @@ ul{
     width: 50px;
     padding-top: 30%;
 }
-iframe{
+#iframe1{
     position: absolute;
-    top: 62%;
+    top: 58%;
     left: 3%;
     display: block;
 }
