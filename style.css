@@ -31,11 +31,11 @@ html, body{
 #titulo >p{
     margin: auto;
     display: block;
-    width: 300px;
+    width: 200px;
     text-align: left;
 }
 ul{
-    padding-top: 35px;
+    
     padding-left: 10px;
     position: absolute;
     left: 5%;
@@ -45,7 +45,7 @@ ul{
 }
 #linkredes{
     position: absolute;
-    top: 4%;
+    top: 10%;
     left: 85%;
 }
 .menus{
