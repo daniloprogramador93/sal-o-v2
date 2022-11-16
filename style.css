@@ -17,14 +17,25 @@ html, body{
     background:black url('imagens/corte.jpg') no-repeat left top;
     background-size: cover;  
 }
-h1{
+#titulo{
+    
     text-align: center;
-    display: block;
+    display: block; 
+    
+}
+#titulo >h1 {
     font-family: 'Caveat', cursive;
     font-size: 12vw;
+    display: inline-block;
+}
+#titulo >p{
+    margin: auto;
+    display: block;
+    width: 300px;
+    text-align: left;
 }
 ul{
-    padding-top: 40px;
+    padding-top: 35px;
     padding-left: 10px;
     position: absolute;
     left: 5%;
@@ -35,10 +46,10 @@ ul{
 #linkredes{
     position: absolute;
     top: 4%;
-    left: 80%;
+    left: 85%;
 }
 .menus{
-    width: 50px;
+    width: 40px;
     padding-top: 30%;
 }
 #iframe1{
