@@ -24,6 +24,7 @@ h1{
     font-size: 12vw;
 }
 ul{
+    padding-top: 40px;
     padding-left: 10px;
     position: absolute;
     left: 5%;
@@ -33,7 +34,7 @@ ul{
 }
 #linkredes{
     position: absolute;
-    top: 10%;
+    top: 4%;
     left: 80%;
 }
 .menus{
