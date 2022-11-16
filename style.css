@@ -14,11 +14,10 @@ html, body{
     width: 100vw;
     height: 100vh;
     background-color: rgb(82, 90, 97);
-    background-image: url('imagens/corte.jpg');
-    background-repeat: no-repeat;
+    background:black url('imagens/corte.jpg') no-repeat left top;
     background-size: cover;
-    background-attachment: fixed;
-    background-position: left top;
+    
+   
 }
 h1{
     padding-left: 10px;
@@ -40,12 +39,12 @@ ul{
     left: 80%;
 }
 .menus{
-    width: 7vw;
+    width: 50px;
     padding-top: 30%;
 }
 iframe{
-    padding-left: 10px;
     position: absolute;
-    top: 58%;
+    top: 62%;
+    left: 3%;
     display: block;
 }
