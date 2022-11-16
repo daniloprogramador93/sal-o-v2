@@ -18,43 +18,50 @@ html, body{
     background-size: cover;  
 }
 #titulo{
-    
+    background-color: rgba(0, 0, 255, 0.418);
     text-align: center;
-    display: block; 
-    
+    display: inline-block; 
+    width: 80%;
+    height: 30vh;
 }
 #titulo >h1 {
     font-family: 'Caveat', cursive;
-    font-size: 12vw;
-    display: inline-block;
+    font-size: 10vh;
 }
 #titulo >p{
     margin: auto;
-    display: block;
-    width: 200px;
-    text-align: left;
+    width: 250px;
+    
 }
 ul{
-    
-    padding-left: 10px;
+    background-color: rgba(137, 43, 226, 0.438);
+    padding-top: 20px;
+    height: 25vh;
     position: absolute;
-    left: 5%;
+    left: 10%;
     display: block;
     text-align: left;
     font-size: 100%;
 }
 #linkredes{
+    width: 45px;
+    background-color: rgba(63, 63, 139, 0.568);
     position: absolute;
     top: 10%;
     left: 85%;
 }
 .menus{
-    width: 40px;
-    padding-top: 30%;
+    background-color: rgba(137, 43, 226, 0.644);
+    width:40px;
+    margin-top: 10px;
+    border-radius: 50%;
 }
 #iframe1{
+    height: 40vh;
+    background-color: rgba(0, 255, 255, 0.671);
     position: absolute;
     top: 58%;
     left: 3%;
     display: block;
+    margin: auto;
 }
