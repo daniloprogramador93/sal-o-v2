@@ -18,7 +18,7 @@ html, body{
     background-size: cover;  
 }
 #titulo{
-    background-color: rgba(0, 0, 255, 0.418);
+    
     text-align: center;
     display: inline-block; 
     width: 80%;
@@ -30,34 +30,34 @@ html, body{
 }
 #titulo >p{
     margin: auto;
-    width: 250px;
+    width: 60%;
     
 }
 ul{
-    background-color: rgba(137, 43, 226, 0.438);
+   
     padding-top: 20px;
     height: 25vh;
     position: absolute;
-    left: 10%;
+    left: 5%;
     display: block;
     text-align: left;
-    font-size: 100%;
+    font-size: 80%;
 }
 #linkredes{
-    width: 45px;
-    background-color: rgba(63, 63, 139, 0.568);
+    width: 7vw;
+    
     position: absolute;
-    top: 10%;
+    top: 5%;
     left: 85%;
 }
 .menus{
-    background-color: rgba(137, 43, 226, 0.644);
-    width:40px;
+    
+    width:5vw;
     margin-top: 10px;
     border-radius: 50%;
 }
 #iframe1{
-    height: 4pvh;
+    height: 35%;
     background-color: rgba(0, 255, 255, 0.671);
     position: absolute;
     top: 58%;
